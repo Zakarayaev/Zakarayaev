@@ -11,3 +11,5 @@
 </div>
 
 ### :man_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://giphy.com/clips/storyful-americas-northern-america-national-weather-service-FW9shAZ6lgOrMGVIv8" width="30"> from Dagestan(Repubulic in Russia).
