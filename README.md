@@ -34,3 +34,6 @@ I am a Full Stack Developer from Dagestan(Repubulic in Russia) <img src="https:/
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zakarayaev&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zakarayaev&theme=dark)](https://git.io/streak-stats)
