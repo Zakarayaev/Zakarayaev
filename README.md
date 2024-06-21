@@ -31,3 +31,4 @@ I am a Full Stack Developer from Dagestan(Repubulic in Russia) <img src="https:/
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="70" height="70"/>&nbsp;
 </div>
 
+### :fire: My Stats :
