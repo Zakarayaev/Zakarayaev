@@ -35,5 +35,9 @@ I am a Full Stack Developer from Dagestan(Repubulic in Russia) <img src="https:/
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zakarayaev&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<div>
+  document.getElementById("myDiv").style.border = "thick solid #0000FF";
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakarayaev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
