@@ -13,8 +13,8 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer from Dagestan(Repubulic in Russia) <img src="https://giphy.com/clips/storyful-americas-northern-america-national-weather-service-FW9shAZ6lgOrMGVIv8" width="30">.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Desktop and Backend developer from Dagestan <img src="https://giphy.com/clips/storyful-americas-northern-america-national-weather-service-FW9shAZ6lgOrMGVIv8" width="30">.
+- :telescope: free non-mercenary developer helping companies and institutions.
 
 - :seedling: Exploring Technical Content Writing.
 
