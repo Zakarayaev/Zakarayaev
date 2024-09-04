@@ -32,6 +32,7 @@ I am a Desktop and Backend developer from Dagestan <img src="https://giphy.com/c
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="Git" alt="Git" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="GitHub" alt="GitHub" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" **alt="MySQL" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="MySQL" **alt="MySQL" width="70" height="70"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
